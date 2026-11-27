@@ -1,2 +1,3 @@
 Yoshi|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/yoshi.nes
 Tetris|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/tetris.nes
+Super Mario Bros.|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/supermariobros.nes
