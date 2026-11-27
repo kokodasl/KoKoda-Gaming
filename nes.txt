@@ -7,3 +7,15 @@ Final Fantasy VII|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/
 Castlevania|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Castlevania%20%28U%29.nes
 Castlevania II - Simon's Quest|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Castlevania%20II%20-%20Simon%20s%20Quest%20%28U%29.nes
 Castlevania III - Dracula's Curse|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Castlevania%20III%20-%20Dracula%20s%20Curse%20%28U%29.nes
+WWF WrestleMania|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/WWF%20WrestleMania%20%28U%29.nes
+WWF King of the Ring|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/WWF%20King%20of%20the%20Ring%20%28U%29.nes
+Tetris (Nintendo)|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Tetris%20%28U%29.nes
+Ms. Pac-Man|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Ms.%20Pac-Man%20%28U%29.nes
+Metal Gear|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Metal%20Gear%20%28U%29.nes
+Mega Man VI|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Megaman%20VI%20%28U%29.nes
+Mega Man V|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Megaman%20V%20%28U%29.nes
+Mega Man III|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Megaman%20III%20%28U%29.nes
+Mega Man II|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Megaman%20II%20%28U%29.nes
+Mega Man|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Megaman%20%28U%29.nes
+Jurassic Park|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Jurassic%20Park%20%28U%29.nes
+Contra|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Contra%20%28U%29.nes
