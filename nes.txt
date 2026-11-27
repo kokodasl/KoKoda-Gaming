@@ -4,3 +4,6 @@ Super Mario Bros.|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/
 Super Mario Bros. 2|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/SuperMarioBros2.nes
 Super Mario Bros. 3|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/SuperMarioBros3.nes
 Final Fantasy VII|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Final Fantasy VII.nes
+Castlevania|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Castlevania%20%28U%29.nes
+Castlevania II - Simon's Quest|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Castlevania%20II%20-%20Simon%20s%20Quest%20%28U%29.nes
+Castlevania III - Dracula's Curse|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/Castlevania%20III%20-%20Dracula%20s%20Curse%20%28U%29.nes
