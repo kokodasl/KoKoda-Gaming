@@ -1,5 +1,11 @@
+
 {
-  "nes": {},
+  "nes": {
+    "Super Mario Bros 2": "Super Mario Bros. 2 (USA).png"
+  },
   "snes": {},
-  "segaMD": {}
+  "segaMD": {},
+  "gb": {},
+  "gbc": {},
+  "gba": {}
 }
