@@ -1,1 +1,2 @@
-Test Game|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/yoshi.nes
+Yoshi|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/yoshi.nes
+Tetris|Test Game|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/NES/tetris.nes
