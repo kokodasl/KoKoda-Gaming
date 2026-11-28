@@ -1,3 +1,14 @@
 Super Street Fighter II|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Super Street Fighter II (USA).md
 Castlevania - Bloodlines (USA)|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Castlevania%20-%20Bloodlines%20%28USA%29.gen
-
+The Lion King|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Lion%20King%2C%20The%20%28World%29.md
+Marble Madness|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Marble%20Madness%20%28USA%2C%20Europe%29.md
+Mighty Morphin Power Rangers|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Mighty%20Morphin%20Power%20Rangers%20%28USA%29.md
+Mortal Kombat|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Mortal%20Kombat%20%28World%29.md
+NBA Jam|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/NBA%20Jam%20%28USA%2C%20Europe%29.md
+OutRun|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/OutRun%20%28USA%2C%20Europe%29.md
+Pac-Attack|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Pac-Attack%20%28USA%29.md
+Pitfall - The Mayan Adventure|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Pitfall%20-%20The%20Mayan%20Adventure%20%28USA%29.md
+Road Rash|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Road%20Rash%20%28USA%2C%20Europe%29.md
+Sonic the Hedgehog|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Sonic%20The%20Hedgehog%20%28USA%2C%20Europe%29.md
+Theme Park|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Theme%20Park%20%28USA%2C%20Europe%29.md
+Where in the World Is Carmen Sandiego|https://raw.githubusercontent.com/kokodasl/KoKoda-Gaming/main/Genesis/Where%20in%20the%20World%20Is%20Carmen%20Sandiego%20%28USA%2C%20Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.md
